@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "3ICz0jNlRouCI00Sq9L/sfSyFM7wcvzPa0NSQ0i5L0w=",
+  "Source": "CardPro.Server",
+  "BasePath": "_content/CardPro.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Aviel Shaar\\Software Development\\Projects\\CardPro\\cardpro.client\\cardpro.client.esproj",
+      "Version": 2,
+      "Source": "cardpro.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

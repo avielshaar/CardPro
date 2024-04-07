@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Aviel Shaar\\Software Development\\Projects\\CardPro\\CardPro.Server\\..\\cardpro.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
